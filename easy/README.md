@@ -1,4 +1,4 @@
-Easy Problems on Arrays
+<h2>Easy Problems on Arrays</h2>
 
 <table>
     <thead>
