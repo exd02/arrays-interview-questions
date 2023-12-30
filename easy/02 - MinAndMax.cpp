@@ -3,7 +3,7 @@
 #define INT_MAX 2147483647
 
 template <typename T>
-static void printArray(const T& numbers) {
+void printArray(const T& numbers) {
     for (const auto& number : numbers) {
         std::cout << number << " ";
     }
